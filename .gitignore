@@ -1,0 +1,11 @@
+databases/
+*.pyc
+errors/
+session/
+static/temp
+uploads/
+sessions/
+static/*/unirio
+private/
+views/_unirio
+/web2py_common/
